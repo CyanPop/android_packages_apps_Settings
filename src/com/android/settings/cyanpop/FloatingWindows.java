@@ -1,4 +1,4 @@
-package com.android.settings.temasek;
+package com.android.settings.cyanpop;
 
 import android.content.ContentResolver;
 import android.content.Context;

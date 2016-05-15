@@ -58,7 +58,7 @@
         <PreferenceScreen
             android:key="floating_windows"
             android:title="@string/floating_windows"  
-            android:fragment="com.android.settings.temasek.FloatingWindows"/>
+            android:fragment="com.android.settings.cyanpop.FloatingWindows"/>
 
     </PreferenceCategory>
 
